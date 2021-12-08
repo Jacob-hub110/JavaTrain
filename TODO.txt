@@ -1,0 +1,2 @@
+1. Powtorzyc mapy.
+2. Powtorzyc czym sa metody statyczne i czym sie roznia od standardowych.
